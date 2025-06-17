@@ -2,10 +2,11 @@
 Hi there! I am Simone Brivio, a last-year PhD student at MOX Laboratory, Dept. of Mathematics, Politecnico di Milano. <br>
 🔭 *Scientific Machine Learning, Deep Learning, Mathematics for AI* <br>
 📫 *simone.brivio@polimi.it* <br>
-🔍[[Google Scholar]](https://scholar.google.com/citations?user=eZRQdDMAAAAJ&hl=it), [[ResearchGate]](https://www.researchgate.net/profile/Simone-Brivio-2?ev=hdr_xprf)
+🔍 [[Google Scholar]](https://scholar.google.com/citations?user=eZRQdDMAAAAJ&hl=it), [[ResearchGate]](https://www.researchgate.net/profile/Simone-Brivio-2?ev=hdr_xprf)
 
 ### Research
 My research focuses on designing and enhancing Deep Learning architectures for simulating complex physical systems. <br>
+I am also interested in the mathematical foundations underlying these strategies. <br>
 - [```briviosimone/sae_eys```](https://github.com/briviosimone/sae_eys) <br>
   *Design strategies and a brand-new initialization procedure for deep symmetric autoencoders*
 - [```briviosimone/CGA-DL-ROMs```](https://github.com/briviosimone/CGA-DL-ROMs) <br>
